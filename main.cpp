@@ -2,6 +2,7 @@
 #include "lib.h"
 using namespace std;
 
+
 int main() {
     char m[10][20];
     char nome[20];
