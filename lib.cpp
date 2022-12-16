@@ -3,6 +3,7 @@
 #include "lib.h"
 using namespace std;
 
+
 int verifica ( char m[10][20] , char nome[20])
 {
     for(int i=0; i<10; i++)
