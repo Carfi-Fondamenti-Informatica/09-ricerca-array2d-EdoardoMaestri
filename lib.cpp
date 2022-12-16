@@ -20,6 +20,11 @@ int verifica ( char m[10][20] , char nome[20])
             cout << i+1;
             return 0;
         }
+        else
+        {
+            cout << "non presente";
+            break;
+        }
     }
 
     return 1;
