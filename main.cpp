@@ -11,8 +11,8 @@ int main() {
     {
         for(int j=0; j<20; j++)
         {
-            m[i][j]='\0';
-            nome[j]='\0';
+            m[i][j]=' ';
+            nome[j]=' ';
             // \0 indica fine della parola
         }
     }
